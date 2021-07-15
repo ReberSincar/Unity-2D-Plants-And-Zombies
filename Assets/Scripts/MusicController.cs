@@ -17,6 +17,10 @@ public class MusicController : MonoBehaviour
         {
             musicController = this;
             audioSource = GetComponent<AudioSource>();
+            if (PlayerSettings.GetFirstOpen())
+                audioSource.volume = 1.0f;
+            else
+                audioSource.volume = PlayerSettings.GetVolumeLevel();
             DontDestroyOnLoad(gameObject);
             Invoke("LoadMenuScene", 3f);
         }

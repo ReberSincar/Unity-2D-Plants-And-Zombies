@@ -6,17 +6,17 @@ using UnityEngine.UI;
 public class SoundVolumeController : MonoBehaviour
 {
     public Slider slider;
-    public float volume;
     void Start()
     {
+        slider.value = PlayerSettings.GetVolumeLevel();
         ListenSlider();
     }
 
     public void ListenSlider()
     {
         slider.onValueChanged.AddListener(delegate {
+            PlayerSettings.SetVolumeLevel(slider.value);
             MusicController.audioSource.volume = slider.value;
-            volume = slider.value;
         });
     }
 }

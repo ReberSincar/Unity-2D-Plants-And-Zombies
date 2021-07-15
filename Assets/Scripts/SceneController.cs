@@ -12,17 +12,22 @@ public class SceneController : MonoBehaviour
 
     public void LoadMenu()
     {
-        SceneManager.LoadScene("Menu");
+        SceneManager.LoadScene("1.Menu");
     }
 
     public void LoadGameOver()
     {
-        SceneManager.LoadScene("GameOver");
+        SceneManager.LoadScene("4.GameOver");
     }
 
     public void LoadWin()
     {
-        SceneManager.LoadScene("Win");
+        SceneManager.LoadScene("3.Win");
+    }
+
+    public void LoadGame()
+    {
+        SceneManager.LoadScene("2.Game");
     }
 
     public void LoadSceneByName(string sceneName)
