@@ -1,0 +1,3348 @@
+fileFormatVersion: 2
+guid: a05117444495c420580e82ed0370c26b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1705108493940944052
+    second: lizard_idle_0
+  - first:
+      213: 5650232335477353845
+    second: lizard_idle_1
+  - first:
+      213: 6877217567075687351
+    second: lizard_idle_2
+  - first:
+      213: -493665852650558933
+    second: lizard_idle_3
+  - first:
+      213: -7223020740473018051
+    second: lizard_idle_4
+  - first:
+      213: 7809435728979789553
+    second: lizard_idle_5
+  - first:
+      213: 8248938684302428641
+    second: lizard_idle_6
+  - first:
+      213: 246825906548950052
+    second: lizard_idle_7
+  - first:
+      213: -7415114323921991816
+    second: lizard_idle_8
+  - first:
+      213: -1575396574389442122
+    second: lizard_idle_9
+  - first:
+      213: -280963001860346246
+    second: lizard_idle_10
+  - first:
+      213: -261184419686315864
+    second: lizard_idle_11
+  - first:
+      213: -3063374932020081970
+    second: lizard_idle_12
+  - first:
+      213: -1640477105720779900
+    second: lizard_idle_13
+  - first:
+      213: -7090953040800475902
+    second: lizard_idle_14
+  - first:
+      213: -1485171391933460056
+    second: lizard_idle_15
+  - first:
+      213: -2534767779190334709
+    second: lizard_idle_16
+  - first:
+      213: -809484159943630935
+    second: lizard_idle_17
+  - first:
+      213: -8091334265841185260
+    second: lizard_idle_18
+  - first:
+      213: -5539555230537399575
+    second: lizard_idle_19
+  - first:
+      213: 6557178710852712472
+    second: lizard_idle_20
+  - first:
+      213: -6350499517425814253
+    second: lizard_idle_21
+  - first:
+      213: 5623506643723805643
+    second: lizard_idle_22
+  - first:
+      213: 4468207453146971179
+    second: lizard_idle_23
+  - first:
+      213: 579399868359316572
+    second: lizard_idle_24
+  - first:
+      213: -2339640208750357921
+    second: lizard_idle_25
+  - first:
+      213: 1792301767490454379
+    second: lizard_idle_26
+  - first:
+      213: -437224253645758185
+    second: lizard_idle_27
+  - first:
+      213: -6801595953453623751
+    second: lizard_idle_28
+  - first:
+      213: 8380762154235283461
+    second: lizard_idle_29
+  - first:
+      213: -8857560743401163327
+    second: lizard_idle_30
+  - first:
+      213: 7080486079994208204
+    second: lizard_idle_31
+  - first:
+      213: 4570500539706079483
+    second: lizard_idle_32
+  - first:
+      213: 848564671388634977
+    second: lizard_idle_33
+  - first:
+      213: 4484834025568939933
+    second: lizard_idle_34
+  - first:
+      213: -1248223315364032360
+    second: lizard_idle_35
+  - first:
+      213: 7279351119808099980
+    second: lizard_idle_36
+  - first:
+      213: 7012228976742293413
+    second: lizard_idle_37
+  - first:
+      213: -9123127131608651546
+    second: lizard_idle_38
+  - first:
+      213: -2487378556500030692
+    second: lizard_idle_39
+  - first:
+      213: -8446956153571749004
+    second: lizard_idle_40
+  - first:
+      213: 6839544545426195375
+    second: lizard_idle_41
+  - first:
+      213: -1963616974896675801
+    second: lizard_idle_42
+  - first:
+      213: -466244763404730827
+    second: lizard_idle_43
+  - first:
+      213: -4418058175747686741
+    second: lizard_idle_44
+  - first:
+      213: 8451127587999239298
+    second: lizard_idle_45
+  - first:
+      213: 7804124366049525272
+    second: lizard_idle_46
+  - first:
+      213: -3979164145318555776
+    second: lizard_idle_47
+  - first:
+      213: -8532254014408776932
+    second: lizard_idle_48
+  - first:
+      213: -5401013363847404891
+    second: lizard_idle_49
+  - first:
+      213: 5477833575455715248
+    second: lizard_idle_50
+  - first:
+      213: 2558720838746785742
+    second: lizard_idle_51
+  - first:
+      213: 7615600954790952439
+    second: lizard_idle_52
+  - first:
+      213: -5429769889410751379
+    second: lizard_idle_53
+  - first:
+      213: -5376331177887445780
+    second: lizard_idle_54
+  - first:
+      213: 5936813506765696847
+    second: lizard_idle_55
+  - first:
+      213: -2721980752414992413
+    second: lizard_idle_56
+  - first:
+      213: -7107034796953839407
+    second: lizard_idle_57
+  - first:
+      213: -5208458714416457728
+    second: lizard_idle_58
+  - first:
+      213: -3095055903722045192
+    second: lizard_idle_59
+  - first:
+      213: 7210222889156424373
+    second: lizard_idle_60
+  - first:
+      213: -3891540665892387697
+    second: lizard_idle_61
+  - first:
+      213: 5223025829519688981
+    second: lizard_idle_62
+  - first:
+      213: -6820311020348493570
+    second: lizard_idle_63
+  - first:
+      213: 115270489572182023
+    second: lizard_idle_64
+  - first:
+      213: 4991155391398570711
+    second: lizard_idle_65
+  - first:
+      213: -3100634176842465288
+    second: lizard_idle_66
+  - first:
+      213: -8075308260935569342
+    second: lizard_idle_67
+  - first:
+      213: -3151356011324081033
+    second: lizard_idle_68
+  - first:
+      213: 8407639035153225914
+    second: lizard_idle_69
+  - first:
+      213: 6593982786819144316
+    second: lizard_idle_70
+  - first:
+      213: -343929537967605573
+    second: lizard_idle_71
+  - first:
+      213: -7304657905602887261
+    second: lizard_idle_72
+  - first:
+      213: -1168340395219600439
+    second: lizard_idle_73
+  - first:
+      213: -4839252219555787335
+    second: lizard_idle_74
+  - first:
+      213: -1590121125747190243
+    second: lizard_idle_75
+  - first:
+      213: -6421846271478859742
+    second: lizard_idle_76
+  - first:
+      213: 4443591146712735903
+    second: lizard_idle_77
+  - first:
+      213: -7962039362047616977
+    second: lizard_idle_78
+  - first:
+      213: -5281710285645264988
+    second: lizard_idle_79
+  - first:
+      213: -1292618247228146412
+    second: lizard_idle_80
+  - first:
+      213: -1516017221159068654
+    second: lizard_idle_81
+  - first:
+      213: -8095268240240879568
+    second: lizard_idle_82
+  - first:
+      213: -2106231129249940433
+    second: lizard_idle_83
+  - first:
+      213: 4167656837697199329
+    second: lizard_idle_84
+  - first:
+      213: -5973255881061942562
+    second: lizard_idle_85
+  - first:
+      213: 7333052381351657166
+    second: lizard_idle_86
+  - first:
+      213: -1971811509613456433
+    second: lizard_idle_87
+  - first:
+      213: -8526561410212433057
+    second: lizard_idle_88
+  - first:
+      213: -8332643395619193279
+    second: lizard_idle_89
+  - first:
+      213: 7017626394511257532
+    second: lizard_idle_90
+  - first:
+      213: -2972156916178897030
+    second: lizard_idle_91
+  - first:
+      213: -5041984496530122953
+    second: lizard_idle_92
+  - first:
+      213: 2254088138327626433
+    second: lizard_idle_93
+  - first:
+      213: -1686853604030617201
+    second: lizard_idle_94
+  - first:
+      213: 6588990232460762266
+    second: lizard_idle_95
+  - first:
+      213: -7756102146681493785
+    second: lizard_idle_96
+  - first:
+      213: -3031908793043265730
+    second: lizard_idle_97
+  - first:
+      213: -7012881361714636936
+    second: lizard_idle_98
+  - first:
+      213: 971618847386104103
+    second: lizard_idle_99
+  - first:
+      213: -5749298258772567291
+    second: lizard_idle_100
+  - first:
+      213: -6011748152675912665
+    second: lizard_idle_101
+  - first:
+      213: -3364925875881541166
+    second: lizard_idle_102
+  - first:
+      213: 3018703646100403094
+    second: lizard_idle_103
+  - first:
+      213: 2977238679352183680
+    second: lizard_idle_104
+  - first:
+      213: -399219712597312381
+    second: lizard_idle_105
+  - first:
+      213: 782935095893346744
+    second: lizard_idle_106
+  - first:
+      213: -6501158234904734381
+    second: lizard_idle_107
+  - first:
+      213: 8872062439284233845
+    second: lizard_idle_108
+  - first:
+      213: -7130037495871488715
+    second: lizard_idle_109
+  - first:
+      213: -932539668799930077
+    second: lizard_idle_110
+  - first:
+      213: -2831261715103697292
+    second: lizard_idle_111
+  - first:
+      213: -8206677913529374158
+    second: lizard_idle_112
+  - first:
+      213: 5036891855321719130
+    second: lizard_idle_113
+  - first:
+      213: 3134043250811209782
+    second: lizard_idle_114
+  - first:
+      213: -6885940362167736567
+    second: lizard_idle_115
+  - first:
+      213: -8153929790895458972
+    second: lizard_idle_116
+  - first:
+      213: -6257504553622803284
+    second: lizard_idle_117
+  - first:
+      213: -5497151010468343300
+    second: lizard_idle_118
+  - first:
+      213: 3838105091521496835
+    second: lizard_idle_119
+  - first:
+      213: -3105303696928801116
+    second: lizard_idle_120
+  - first:
+      213: -4790162283347535322
+    second: lizard_idle_121
+  - first:
+      213: -8624968060264506003
+    second: lizard_idle_122
+  - first:
+      213: -2441542571934586903
+    second: lizard_idle_123
+  - first:
+      213: 8346528962736727147
+    second: lizard_idle_124
+  - first:
+      213: 727756360680095195
+    second: lizard_idle_125
+  - first:
+      213: 102614163965242086
+    second: lizard_idle_126
+  - first:
+      213: 6795880266426850163
+    second: lizard_idle_127
+  - first:
+      213: 7179640598747726432
+    second: lizard_idle_128
+  - first:
+      213: -6956411171891296790
+    second: lizard_idle_129
+  - first:
+      213: -5292452487833890378
+    second: lizard_idle_130
+  - first:
+      213: -2472340946288158165
+    second: lizard_idle_131
+  - first:
+      213: -4690974616368795740
+    second: lizard_idle_132
+  - first:
+      213: -5349423128145331895
+    second: lizard_idle_133
+  - first:
+      213: 3300119368032633950
+    second: lizard_idle_134
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lizard_idle_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1508
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43162bdbdc3658e0800000000000000
+      internalID: -1705108493940944052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1508
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dad867f58a96e40800000000000000
+      internalID: 5650232335477353845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1508
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb5f90b0f8c07f50800000000000000
+      internalID: 6877217567075687351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_3
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1508
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ae507c5852629f0800000000000000
+      internalID: -493665852650558933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1508
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39a3ded7eca2cb90800000000000000
+      internalID: -7223020740473018051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1508
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6851a5b60b06c60800000000000000
+      internalID: 7809435728979789553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1508
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e903d3570e1a7270800000000000000
+      internalID: 8248938684302428641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1508
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424c631bad6ec6300800000000000000
+      internalID: 246825906548950052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_8
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1508
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87708b13fc8381990800000000000000
+      internalID: -7415114323921991816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_9
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1508
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b966239921132ae0800000000000000
+      internalID: -1575396574389442122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_10
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 1508
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e261f63a1d91cf0800000000000000
+      internalID: -280963001860346246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_11
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 1508
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a80bb37726106cf0800000000000000
+      internalID: -261184419686315864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_12
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 1508
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca4b13dab4bc75d0800000000000000
+      internalID: -3063374932020081970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_13
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 1508
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b1a5393cadb39e0800000000000000
+      internalID: -1640477105720779900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_14
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1508
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059c1467cfd79d90800000000000000
+      internalID: -7090953040800475902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1322
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1db31ec7c936be0800000000000000
+      internalID: -1485171391933460056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1322
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b11457222b2dcd0800000000000000
+      internalID: -2534767779190334709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1322
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af1143027224c4f0800000000000000
+      internalID: -809484159943630935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_18
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1322
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e079dda5ec5bf80800000000000000
+      internalID: -8091334265841185260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_19
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1322
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2492e1edb8f13b0800000000000000
+      internalID: -5539555230537399575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_20
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1322
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818312dcb47cffa50800000000000000
+      internalID: 6557178710852712472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_21
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1322
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3157b85d55e7ed7a0800000000000000
+      internalID: -6350499517425814253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_22
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1322
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3e4337f75ba0e40800000000000000
+      internalID: 5623506643723805643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_23
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1322
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cf39b4103420e30800000000000000
+      internalID: 4468207453146971179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_24
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1322
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5417784c117a0800800000000000000
+      internalID: 579399868359316572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_25
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 1322
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52d63740ade78fd0800000000000000
+      internalID: -2339640208750357921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_26
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 1322
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63c29526f88fd810800000000000000
+      internalID: 1792301767490454379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_27
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 1322
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711624a9bdaaee9f0800000000000000
+      internalID: -437224253645758185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_28
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 1322
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93699a84480eb91a0800000000000000
+      internalID: -6801595953453623751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_29
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1322
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5084b3ea6c27e4470800000000000000
+      internalID: 8380762154235283461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1137
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5f029ee6f931580800000000000000
+      internalID: -8857560743401163327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_31
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1137
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf17236390f24260800000000000000
+      internalID: 7080486079994208204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_32
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1137
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf879ea760ead6f30800000000000000
+      internalID: 4570500539706079483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_33
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1137
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc01f9215b6cb00800000000000000
+      internalID: 848564671388634977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_34
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1137
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f2f9ad8c45d3e30800000000000000
+      internalID: 4484834025568939933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_35
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1137
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890dd5f028b6daee0800000000000000
+      internalID: -1248223315364032360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_36
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1137
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86f08b9643750560800000000000000
+      internalID: 7279351119808099980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_37
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1137
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afdc6a1a11705160800000000000000
+      internalID: 7012228976742293413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_38
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1135
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8ecbfc534246180800000000000000
+      internalID: -9123127131608651546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_39
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1135
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b44eda16e0b7dd0800000000000000
+      internalID: -2487378556500030692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_40
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1135
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4735e09d12266ca80800000000000000
+      internalID: -8446956153571749004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_41
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 1135
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3c69fc681faee50800000000000000
+      internalID: 6839544545426195375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_42
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 1135
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7244b58d3c4dfb4e0800000000000000
+      internalID: -1963616974896675801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_43
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1135
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53effd2abd09789f0800000000000000
+      internalID: -466244763404730827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_44
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 1135
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae7c8d3f77efa2c0800000000000000
+      internalID: -4418058175747686741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cc23ae3cf684570800000000000000
+      internalID: 8451127587999239298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_46
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 947
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e3a5d43c1dd4c60800000000000000
+      internalID: 7804124366049525272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_47
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 947
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f0157da4b27c8c0800000000000000
+      internalID: -3979164145318555776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_48
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 947
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13a3c10e28579980800000000000000
+      internalID: -8532254014408776932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_49
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 947
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2ecbc16febb05b0800000000000000
+      internalID: -5401013363847404891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_50
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfeeb33d9c250c40800000000000000
+      internalID: 5477833575455715248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_51
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec744e0db07628320800000000000000
+      internalID: 2558720838746785742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_52
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdb07d18bc00b960800000000000000
+      internalID: 7615600954790952439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_53
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d646f81cd0595a4b0800000000000000
+      internalID: -5429769889410751379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_54
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec492b574f6365b0800000000000000
+      internalID: -5376331177887445780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_55
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa2880e6cc36250800000000000000
+      internalID: 5936813506765696847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_56
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e79ad66de4993ad0800000000000000
+      internalID: -2721980752414992413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_57
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8d931c18dbe5d90800000000000000
+      internalID: -7107034796953839407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_58
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0085be31566d7b7b0800000000000000
+      internalID: -5208458714416457728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_59
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f00caacd072c05d0800000000000000
+      internalID: -3095055903722045192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 762
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b23f8b248bdf0460800000000000000
+      internalID: 7210222889156424373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_61
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 762
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f844f74f1687ef9c0800000000000000
+      internalID: -3891540665892387697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_62
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 762
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5150635b15aeb7840800000000000000
+      internalID: 5223025829519688981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_63
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 762
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0327633436951a0800000000000000
+      internalID: -6820311020348493570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_64
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 762
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708090846e5899100800000000000000
+      internalID: 115270489572182023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_65
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 762
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da661b5265244540800000000000000
+      internalID: 4991155391398570711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_66
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 762
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff7eded4a558f4d0800000000000000
+      internalID: -3100634176842465288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_67
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 762
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2407827ebedbeef80800000000000000
+      internalID: -8075308260935569342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_68
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 762
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c7c3087622444d0800000000000000
+      internalID: -3151356011324081033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_69
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 762
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8140a282feda470800000000000000
+      internalID: 8407639035153225914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_70
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 762
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a356f7868828b50800000000000000
+      internalID: 6593982786819144316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_71
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 762
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb83dad48ed1a3bf0800000000000000
+      internalID: -343929537967605573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_72
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 762
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a18aca2654a0aa90800000000000000
+      internalID: -7304657905602887261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_73
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 762
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb3236c99839cfe0800000000000000
+      internalID: -1168340395219600439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_74
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 762
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd4bdaeeb587dcb0800000000000000
+      internalID: -4839252219555787335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d169efdc241cee9e0800000000000000
+      internalID: -1590121125747190243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_76
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 576
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228f55a27d401e6a0800000000000000
+      internalID: -6421846271478859742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_77
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 576
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9022e2da9ecaad30800000000000000
+      internalID: 4443591146712735903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_78
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 576
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2859798267218190800000000000000
+      internalID: -7962039362047616977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_79
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 576
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a746999a7893b6b0800000000000000
+      internalID: -5281710285645264988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_80
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d37cf7d82bf0ee0800000000000000
+      internalID: -1292618247228146412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_81
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c507b9e5606fae0800000000000000
+      internalID: -1516017221159068654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_82
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038d0f21d64d7af80800000000000000
+      internalID: -8095268240240879568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_83
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cff2e72f925c2e0800000000000000
+      internalID: -2106231129249940433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_84
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec5bac00dd76d930800000000000000
+      internalID: 4167656837697199329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_85
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda3ac08c6bba1da0800000000000000
+      internalID: -5973255881061942562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_86
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece3cc5e94c34c560800000000000000
+      internalID: 7333052381351657166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_87
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3967d01e7b2a4e0800000000000000
+      internalID: -1971811509613456433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_88
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53fbb4b2919ba980800000000000000
+      internalID: -8526561410212433057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_89
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14efc1cdaf08c5c80800000000000000
+      internalID: -8332643395619193279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_90
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfaf3b560e936160800000000000000
+      internalID: 7017626394511257532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_91
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 390
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77bf6a2807c0c6d0800000000000000
+      internalID: -2972156916178897030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_92
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 390
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7379b4160d5470ab0800000000000000
+      internalID: -5041984496530122953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_93
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 390
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c290791831284f10800000000000000
+      internalID: 2254088138327626433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_94
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 390
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89eaaf95971798e0800000000000000
+      internalID: -1686853604030617201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_95
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c975ad4bbc07b50800000000000000
+      internalID: 6588990232460762266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_96
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6a761f03acc5490800000000000000
+      internalID: -7756102146681493785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_97
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37d547340f7ce5d0800000000000000
+      internalID: -3031908793043265730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_98
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8779a0fae8d3dae90800000000000000
+      internalID: -7012881361714636936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_99
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721f58f9132eb7d00800000000000000
+      internalID: 971618847386104103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_100
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bd61ad1b36630b0800000000000000
+      internalID: -5749298258772567291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_101
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72434a028eaf19ca0800000000000000
+      internalID: -6011748152675912665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_102
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d18f887eb16d41d0800000000000000
+      internalID: -3364925875881541166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_103
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693bdfbe8f694e920800000000000000
+      internalID: 3018703646100403094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_104
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 390
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b07560ec6415920800000000000000
+      internalID: 2977238679352183680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_105
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cbd4b59cfa57af0800000000000000
+      internalID: -399219712597312381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_106
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 203
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9c8e0525b8dda00800000000000000
+      internalID: 782935095893346744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_107
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 203
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355d5eba70f37c5a0800000000000000
+      internalID: -6501158234904734381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_108
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 203
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5765f9648c5ef1b70800000000000000
+      internalID: 8872062439284233845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_109
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 203
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d3d5f8ca40d0d90800000000000000
+      internalID: -7130037495871488715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_110
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321483eac14fe03f0800000000000000
+      internalID: -932539668799930077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_111
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476b415887655b8d0800000000000000
+      internalID: -2831261715103697292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_112
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aa9022be50c1e80800000000000000
+      internalID: -8206677913529374158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_113
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a516280b472a6e540800000000000000
+      internalID: 5036891855321719130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_114
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63800535bbb5e7b20800000000000000
+      internalID: 3134043250811209782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_115
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907a77059b93070a0800000000000000
+      internalID: -6885940362167736567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_116
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465733a7e0c67de80800000000000000
+      internalID: -8153929790895458972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_117
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac6cec13c0e829a0800000000000000
+      internalID: -6257504553622803284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_118
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1da58f74236b3b0800000000000000
+      internalID: -5497151010468343300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_119
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307c1cede30b34530800000000000000
+      internalID: 3838105091521496835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_120
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aef9d08dbeb7e4d0800000000000000
+      internalID: -3105303696928801116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_121
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 18
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a989c58cce58db0800000000000000
+      internalID: -4790162283347535322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_122
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 18
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d18d80f35fd4880800000000000000
+      internalID: -8624968060264506003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_123
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 18
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e768d777f5ed1ed0800000000000000
+      internalID: -2441542571934586903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_124
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 19
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64ae6baed3d4d370800000000000000
+      internalID: 8346528962736727147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_125
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 19
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd3e51ed82891a00800000000000000
+      internalID: 727756360680095195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_126
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 19
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea6218d90f8c6100800000000000000
+      internalID: 102614163965242086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_127
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 19
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b9570a811df4e50800000000000000
+      internalID: 6795880266426850163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_128
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 19
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062c45fc51533a360800000000000000
+      internalID: 7179640598747726432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_129
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 19
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae54cd355ecd57f90800000000000000
+      internalID: -6956411171891296790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_130
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 19
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b15700c08e6d86b0800000000000000
+      internalID: -5292452487833890378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_131
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 19
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a57d4220b70bdd0800000000000000
+      internalID: -2472340946288158165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_132
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 19
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa6f4b07f46eeb0800000000000000
+      internalID: -4690974616368795740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_133
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 19
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94973a5e10803c5b0800000000000000
+      internalID: -5349423128145331895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_134
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 19
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54c8f794116ccd20800000000000000
+      internalID: 3300119368032633950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
